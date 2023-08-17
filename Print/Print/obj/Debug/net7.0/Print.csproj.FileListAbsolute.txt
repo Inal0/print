@@ -1,0 +1,5 @@
+C:\Users\112\source\repos\Print\Print\obj\Debug\net7.0\Print.csproj.AssemblyReference.cache
+C:\Users\112\source\repos\Print\Print\obj\Debug\net7.0\Print.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\112\source\repos\Print\Print\obj\Debug\net7.0\Print.AssemblyInfoInputs.cache
+C:\Users\112\source\repos\Print\Print\obj\Debug\net7.0\Print.AssemblyInfo.cs
+C:\Users\112\source\repos\Print\Print\obj\Debug\net7.0\Print.csproj.CoreCompileInputs.cache
